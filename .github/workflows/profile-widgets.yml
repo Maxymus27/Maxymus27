@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
 
   # ==========================================
@@ -12,9 +15,6 @@ jobs:
   # ==========================================
   stats:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,7 +24,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Maxymus27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=C9D1D9
+          options: 'username=Maxymus27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=C9D1D9'
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Maxymus27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9
+          options: 'username=Maxymus27&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9'
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,19 +43,16 @@ jobs:
 
           git add profile/stats.svg profile/top-langs.svg
 
-          git diff --cached --quiet || git commit -m "Update GitHub profile stats"
+          git commit -m "Update GitHub profile stats" || exit 0
 
           git push
 
 
   # ==========================================
-  # Contribution Activity Graph
+  # Contribution Activity
   # ==========================================
   activity:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -65,7 +62,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: Maxymus27
-          options: theme=tokyo-night&hide_border=true&area=true&color=FF69B4&line=EF93C4&point=FF69B4&area_color=F8BBD0
+          options: 'theme=tokyo-night&hide_border=true&area=true&color=FF69B4&line=EF93C4&point=FF69B4&area_color=F8BBD0'
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
