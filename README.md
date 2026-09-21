@@ -28,7 +28,7 @@ About
 
 I am a Computer Science and Engineering student focused on Java backend development, Spring Boot, REST APIs, SQL, and AI integration.
 
-My current engineering path is centered on building reliable backend applications with Java, Spring Boot, REST APIs, MySQL, JPA/Hibernate, Spring Security, Docker, and AWS, while progressively developing the ability to integrate Generative AI, LLM APIs, Spring AI, RAG, AI agents, and MCP into backend systems.
+My current focus is Java, Spring Boot, REST APIs, MySQL, and backend development, while learning cloud, security, and AI integration.
 
 I also have practical industry experience in Python automation, web scraping, tender-data processing, Excel/CSV workflows, email marketing, content publishing, and AI-assisted workflow optimization. During my internship at BidAlert, I worked on automation for tender-related workflows and coordinated tasks with a team of 12 interns.
 
@@ -36,89 +36,81 @@ My long-term direction is Java Backend Developer / Software Engineer / AI-integr
 
 Open To
 
-Java Backend / Spring Boot internships
-
-Software Engineering internships
-
-Backend application development
-
-AI-integrated backend projects
-
-Practical software engineering opportunities
-
-Opportunities that support long-term growth toward Germany
+Java Backend · Spring Boot · Software Engineering · AI-integrated Backend · Internships · Germany
 
 Tech Stack
 
+<div align="center">
+
 Programming
-
-<img src="https://skillicons.dev/icons?i=java,python" />
-
-Java · Python · SQL
 
 Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python" height="45">
+
+<img src="https://skillicons.dev/icons?i=spring,mysql" height="45">
+
+Java · Python · SQL
 
 Spring Boot · REST APIs · MySQL · SQL
 
-JPA · Hibernate · Spring Security · JWT · Docker · AWS
+JPA · Hibernate · Spring Security · JWT
+
+Docker · AWS
 
 Automation & Data
 
-<img src="https://skillicons.dev/icons?i=python" />
-
-Python Automation · Web Scraping · Excel · CSV Data Processing
-
 AI & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=python" height="45">
 
-Generative AI · Prompt Engineering · AI Tools · Git · GitHub
+<img src="https://skillicons.dev/icons?i=git,github" height="45">
+
+Python Automation · Web Scraping
+
+Generative AI · Prompt Engineering
+
+Excel · CSV Data Processing
+
+AI Tools · Git · GitHub
+
+</div>
 
 AI Integration & Generative AI
 
-Domain
+<div align="center">
 
-Proficiency
+Area
 
-Details
+Current Level
 
 Generative AI
 
 Working Knowledge
 
-Practical use of generative AI tools for productivity, problem solving, learning, and software-development workflows
-
 Prompt Engineering
 
 Working Knowledge
-
-Structured prompting for improving AI-assisted tasks and outputs
 
 AI Tools
 
 Practical
 
-Using AI tools to streamline repetitive workflows and support development
-
 AI Integration
 
 Learning
-
-Exploring how AI capabilities can be integrated into Java/Spring backend applications
 
 Spring AI
 
 Learning
 
-Building toward AI-powered Java/Spring applications and LLM API integration
-
 LLM Applications
 
 Learning
 
-Exploring LLM API integration, RAG, AI agents, and application-level AI workflows
+</div>
+
+Focus: Using Generative AI and AI tools in development workflows, while learning to integrate LLM capabilities into Java/Spring backend applications.
 
 Featured Projects
 
@@ -137,21 +129,21 @@ Stack
 
 Java · Spring Boot · REST APIs · MySQL
 
-Scale
+Purpose
 
-Student record management backend
+Student record management
 
-Performance
+Core
 
-REST-based backend designed for structured CRUD operations
+REST CRUD APIs
 
-Security
+Database
 
-Security is a planned next-stage enhancement through Spring Security/JWT
+MySQL
 
-Impact
+Focus
 
-Demonstrates practical backend development, API design, and database integration
+Backend development and API design
 
 Repository
 
@@ -294,48 +286,27 @@ Contribution Snake
 Current Focus
 
 Learning:
-  - Java
-  - Data Structures & Algorithms
-  - Spring Boot
-  - REST APIs
-  - SQL
-  - MySQL
+  - Java & DSA
+  - Spring Boot & REST APIs
+  - SQL & MySQL
   - JPA / Hibernate
   - Spring Security / JWT
-  - Docker
-  - AWS
+  - Docker & AWS
   - Spring AI
-  - LLM API Integration
-  - RAG
-  - AI Agents
-  - MCP
+  - LLM APIs, RAG & AI Agents
   - System Design
-  - Computer Science Fundamentals
 
 Building:
   - Java backend applications
   - REST API based systems
   - Database-driven applications
   - AI-integrated backend applications
-  - Practical software engineering projects
-
-Exploring:
-  - Spring AI
-  - Generative AI applications
-  - LLM integration
-  - RAG-based applications
-  - AI agents
-  - Modern backend architecture
-  - Cloud deployment
-  - Scalable system design
 
 Open To:
-  - Java Backend Internships
-  - Spring Boot Internships
+  - Java Backend / Spring Boot Internships
   - Software Engineering Internships
   - AI-integrated Backend Projects
-  - Backend Development Opportunities
-  - Long-term Software Engineering Opportunities in India and Germany
+  - Opportunities in India and Germany
 
 Connect
 
