@@ -1,163 +1,180 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=180&section=header&text=Amith%20Maximus%20Gollamudi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+Hey there, I'm Amith Maximus 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B7EDE&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;AI+Integration+%7C+Generative+AI;Python+Automation+%7C+Web+Scraping;Computer+Science+Student+%7C+Software+Engineering" alt="Typing SVG" /></a>
+Java Backend Developer | Spring Boot | AI-integrated Backend
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Generative+AI+%7C+AI+Integration;Building+Reliable+Backend+Systems" alt="Typing SVG"/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE-VVIT-6A5ACD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.0%2F10-7B68EE?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Guntur%2C%20Andhra%20Pradesh-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-VVIT-FF69B4?style=for-the-badge" alt="B.Tech CSE"/>
+  <img src="https://img.shields.io/badge/CGPA-8.0%2F10-EF93C4?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Guntur-Andhra%20Pradesh-FF69B4?style=for-the-badge" alt="Location"/>
+</p>
 
-<br/><br/>
-
-<a href="mailto:amithmaximus@gmail.com"><img src="https://img.shields.io/badge/Email-amithmaximus%40gmail.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amith-maximus-2b9551420/"><img src="https://img.shields.io/badge/LinkedIn-Amith%20Maximus-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Maxymus27"><img src="https://img.shields.io/badge/GitHub-Maxymus27-4B0082?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Maxymus27&style=flat-square&color=6A5ACD&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Maxymus27?style=flat-square&color=7B68EE&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/Maxymus27?style=flat-square&color=4B0082&label=STARS"/>
+<p>
+  <a href="mailto:amithmaximus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amith-maximus-2b9551420/">
+    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Maxymus27">
+    <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
-About
+About Me
 
-I am a Computer Science and Engineering student focused on Java backend development, Spring Boot, REST APIs, SQL, and AI integration.
+I am a Computer Science student focused on Java backend development, Spring Boot, REST APIs, SQL/MySQL, and AI integration.
 
-My current focus is Java, Spring Boot, REST APIs, MySQL, and backend development, while learning cloud, security, and AI integration.
+I enjoy building backend systems, working with databases and APIs, automating repetitive tasks with Python, and learning how Generative AI can be integrated into software applications.
 
-I also have practical industry experience in Python automation, web scraping, tender-data processing, Excel/CSV workflows, email marketing, content publishing, and AI-assisted workflow optimization. During my internship at BidAlert, I worked on automation for tender-related workflows and coordinated tasks with a team of 12 interns.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My long-term direction is Java Backend Developer / Software Engineer / AI-integrated Backend Developer, with the goal of building production-oriented software and eventually pursuing opportunities in Germany.
+Education
+
+B.Tech CSE — VVIT
+July 2025 – May 2028
+CGPA: 8.0/10
+
+Diploma in Computer Engineering
+Maddi Bala Tripura Sundaram Government Polytechnic
+2022 – 2025
+Percentage: 81%
+
+</td>
+
+<td width="50%" valign="top">
 
 Open To
 
-Java Backend · Spring Boot · Software Engineering · AI-integrated Backend · Internships · Germany
+Java Backend Internships
+
+Spring Boot Internships
+
+Software Engineering Internships
+
+AI-integrated Backend Projects
+
+Opportunities in India and Germany
+
+</td>
+</tr>
+</table>
 
 Tech Stack
 
-<div align="center">
-
-Programming
-
-Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=java,python" height="45">
-
-<img src="https://skillicons.dev/icons?i=spring,mysql" height="45">
-
-Java · Python · SQL
-
-Spring Boot · REST APIs · MySQL · SQL
-
-JPA · Hibernate · Spring Security · JWT
-
-Docker · AWS
-
-Automation & Data
-
-AI & Tools
-
-<img src="https://skillicons.dev/icons?i=python" height="45">
-
-<img src="https://skillicons.dev/icons?i=git,github" height="45">
-
-Python Automation · Web Scraping
-
-Generative AI · Prompt Engineering
-
-Excel · CSV Data Processing
-
-AI Tools · Git · GitHub
-
-</div>
+<table>
+<tr>
+<td width="25%"><b>Programming</b></td>
+<td width="75%">Java · Python · SQL</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Spring Boot · REST APIs · JPA · Hibernate · Spring Security · JWT</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>MySQL · PostgreSQL</td>
+</tr>
+<tr>
+<td><b>Automation & Data</b></td>
+<td>Python Automation · Web Scraping · Excel · CSV Data Processing</td>
+</tr>
+<tr>
+<td><b>AI & Tools</b></td>
+<td>Generative AI · Prompt Engineering · AI Tools · Git · GitHub</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>Docker · AWS</td>
+</tr>
+</table>
 
 AI Integration & Generative AI
 
-<div align="center">
+<table>
+<tr>
+<td width="45%"><b>Area</b></td>
+<td width="55%"><b>Current Level</b></td>
+</tr>
+<tr>
+<td>Generative AI</td>
+<td>Working Knowledge</td>
+</tr>
+<tr>
+<td>Prompt Engineering</td>
+<td>Working Knowledge</td>
+</tr>
+<tr>
+<td>AI Tools</td>
+<td>Practical</td>
+</tr>
+<tr>
+<td>AI Integration</td>
+<td>Learning</td>
+</tr>
+<tr>
+<td>Spring AI</td>
+<td>Learning</td>
+</tr>
+<tr>
+<td>LLM Applications</td>
+<td>Learning</td>
+</tr>
+</table>
 
-Area
+I am focusing on using Generative AI and AI tools in development workflows and learning how to build LLM-powered applications with Java and Spring.
 
-Current Level
+Featured Project
 
-Generative AI
-
-Working Knowledge
-
-Prompt Engineering
-
-Working Knowledge
-
-AI Tools
-
-Practical
-
-AI Integration
-
-Learning
-
-Spring AI
-
-Learning
-
-LLM Applications
-
-Learning
-
-</div>
-
-Focus: Using Generative AI and AI tools in development workflows, while learning to integrate LLM capabilities into Java/Spring backend applications.
-
-Featured Projects
-
-<details>
-<summary><b>Student Management System</b> — Java · Spring Boot · MySQL</summary>
-
-<br/>
+Student Management System
 
 A backend application for managing student records using Java and Spring Boot, with REST APIs for CRUD operations and MySQL for persistent data storage.
 
-Area
+<table>
+<tr>
+<td width="30%"><b>Area</b></td>
+<td width="70%"><b>Details</b></td>
+</tr>
+<tr>
+<td><b>Stack</b></td>
+<td>Java · Spring Boot · REST APIs · MySQL</td>
+</tr>
+<tr>
+<td><b>Purpose</b></td>
+<td>Student record management</td>
+</tr>
+<tr>
+<td><b>Core</b></td>
+<td>REST CRUD APIs</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>MySQL</td>
+</tr>
+<tr>
+<td><b>Focus</b></td>
+<td>Backend development and API design</td>
+</tr>
+<tr>
+<td><b>Repository</b></td>
+<td><a href="https://github.com/Maxymus27/cognevance_studentManagementSystem">View on GitHub</a></td>
+</tr>
+</table>
 
-Details
+What I built
 
-Stack
+Built the backend using Spring Boot.
 
-Java · Spring Boot · REST APIs · MySQL
+Created REST APIs for CRUD operations.
 
-Purpose
-
-Student record management
-
-Core
-
-REST CRUD APIs
-
-Database
-
-MySQL
-
-Focus
-
-Backend development and API design
-
-Repository
-
-View on GitHub
-
-Built backend functionality with Spring Boot.
-
-Created REST APIs for student CRUD operations.
-
-Integrated MySQL for persistent storage.
-
-Practiced backend architecture and database interaction.
-
-</details>
+Integrated MySQL for persistent data storage.
 
 Experience
 
@@ -165,105 +182,94 @@ Python Automation Intern — BidAlert
 
 November 20, 2024 – May 10, 2025
 
-Worked on practical automation and tender-data workflows using Python and web scraping, while also supporting content, communication, and operational activities.
-
-Scope of Work
-
-Developed Python-based automation tools to scrape tender information from international and Indian websites.
-
-Processed tender information and supported publishing structured data on the BidAlert platform.
-
-Worked with Python automation, web scraping, Excel, and CSV data.
-
-Used AI tools to streamline repetitive workflows and improve productivity.
-
-Supported tender tracking, documentation, email marketing, and content publishing.
-
-Participated in tender-related operational workflows and data handling.
-
-Coordinated tasks and collaborated with a team of 12 interns, supporting task allocation, communication, and timely completion.
-
-Education
-
-B.Tech — Computer Science & Engineering
-
-Vasireddy Venkatadri Institute of Technology (VVIT)
-July 2025 – May 2028 · Guntur, Andhra Pradesh
-CGPA: 8.0 / 10
-
-Diploma — Computer Engineering
-
-Maddi Bala Tripura Sundaram Government Polytechnic
-2022 – 2025 · Andhra Pradesh
-Percentage: 81%
+<table>
+<tr>
+<td width="30%"><b>Area</b></td>
+<td width="70%"><b>Work</b></td>
+</tr>
+<tr>
+<td><b>Automation</b></td>
+<td>Built Python automation tools for repetitive workflows.</td>
+</tr>
+<tr>
+<td><b>Web Scraping</b></td>
+<td>Collected tender information from international and Indian websites.</td>
+</tr>
+<tr>
+<td><b>Data Processing</b></td>
+<td>Processed and maintained tender data using Excel and CSV files.</td>
+</tr>
+<tr>
+<td><b>AI Tools</b></td>
+<td>Used AI tools to support development and content-related workflows.</td>
+</tr>
+<tr>
+<td><b>Publishing</b></td>
+<td>Worked with tender tracking, documentation, email marketing, and content publishing.</td>
+</tr>
+<tr>
+<td><b>Team</b></td>
+<td>Coordinated tasks with a team of 12 interns.</td>
+</tr>
+</table>
 
 Achievements
 
-<div align="center">
-
-Recognition
-
-Details
-
-⭐ 4★ CodeChef
-
-Achieved a 4-star rating on CodeChef
-
-🔥 200-Day Coding Streak
-
-Maintained a 200-day coding streak
-
-💻 Competitive Programming
-
-Practiced competitive programming problems up to 1000 difficulty
-
-</div>
+<table>
+<tr>
+<td width="33%" align="center"><b>4★</b><br/>CodeChef</td>
+<td width="33%" align="center"><b>200 Days</b><br/>Coding Streak</td>
+<td width="33%" align="center"><b>1000+</b><br/>Competitive Programming Difficulty</td>
+</tr>
+</table>
 
 Certifications
 
-Google Cloud / L4G
-
-Generative AI by Google Cloud — 45-hour course with 22 skill badges
-
-CodeChef
-
-Learn Java Programming — 2026
-
-Microsoft / Skill India
-
-Python Programming — 40-hour course
-
-Infosys Springboard
-
-Prompt Engineering — 2026
-
-Coding Profiles
-
-<div align="center">
-
-<a href="https://www.codechef.com/users/vvit25bq5a0558"><img src="https://img.shields.io/badge/CodeChef-4★-7B68EE?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
+<table>
+<tr>
+<td width="35%"><b>Certification</b></td>
+<td width="65%"><b>Details</b></td>
+</tr>
+<tr>
+<td>Generative AI — Google Cloud</td>
+<td>L4G · 45-hour course · 22 skill badges</td>
+</tr>
+<tr>
+<td>Learn Java Programming — CodeChef</td>
+<td>2026</td>
+</tr>
+<tr>
+<td>Python Programming — Microsoft / Skill India</td>
+<td>40-hour course</td>
+</tr>
+<tr>
+<td>Prompt Engineering — Infosys Springboard</td>
+<td>2026</td>
+</tr>
+</table>
 
 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maxymus27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7EDE&icon_color=7B68EE&text_color=C9D1D9" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxymus27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7EDE&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Maxymus27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=C9D1D9" alt="GitHub Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxymus27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Maxymus27&theme=tokyonight&hide_border=true&background=0D1117&ring=9B7EDE&fire=7B68EE&currStreakLabel=9B7EDE" />
-
-</div>
-
-GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maxymus27&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://streak-stats.demolab.com/?user=Maxymus27&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4" alt="GitHub Streak"/>
 
 </div>
 
@@ -271,7 +277,7 @@ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxymus27&bg_color=0D1117&color=9B7EDE&line=7B68EE&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxymus27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -279,7 +285,16 @@ Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+       srcset="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/github-snake.svg">
+
+<img src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/github-snake.svg"
+    alt="GitHub contribution snake">
+</picture>
 
 </div>
 
@@ -308,20 +323,40 @@ Open To:
   - AI-integrated Backend Projects
   - Opportunities in India and Germany
 
-Connect
+Connect With Me
 
 <div align="center">
 
-<a href="mailto:amithmaximus@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amith-maximus-2b9551420/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Maxymus27"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white"/></a>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<a href="mailto:amithmaximus@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://www.linkedin.com/in/amith-maximus-2b9551420/">
+<img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+<a href="https://github.com/Maxymus27">
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <div align="center">
 
 Build with depth. Learn consistently. Turn ideas into reliable software.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=100&section=footer" width="100%"/>
 
 </div>
