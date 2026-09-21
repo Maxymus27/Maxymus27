@@ -36,7 +36,7 @@ I enjoy building backend systems, working with databases and APIs, automating re
 <tr>
 <td width="50%" valign="top">
 
-Education
+<b>Education</b>
 
 B.Tech CSE — VVIT
 July 2025 – May 2028
