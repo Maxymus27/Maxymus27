@@ -256,12 +256,16 @@ GitHub Analytics
 <tr>
 <td width="50%" align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/stats.svg" alt="GitHub Stats"/>
+<img height="180"
+src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/stats.svg"
+alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/top-langs.svg" alt="Top Languages"/>
+<img height="180"
+src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/top-langs.svg"
+alt="Top Languages"/>
 
 </td>
 </tr>
@@ -269,7 +273,9 @@ GitHub Analytics
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Maxymus27&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com/?user=Maxymus27&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4"
+alt="GitHub Streak"/>
 
 </div>
 
@@ -277,7 +283,10 @@ Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/activity-graph.svg" width="100%" alt="GitHub Contribution Activity"/>
+<img
+src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/activity-graph.svg"
+width="100%"
+alt="GitHub Contribution Activity"/>
 
 </div>
 
