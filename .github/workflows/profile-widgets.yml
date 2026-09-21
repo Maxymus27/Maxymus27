@@ -6,14 +6,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
       contents: write
 
     steps:
-      - name: Checkout profile repository
+      - name: Checkout
         uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
@@ -32,40 +32,10 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: Maxymus27
-          options: theme=tokyo-night&hide_border=true&area=true&color=FF69B4&line=EF93C4&point=FF69B4&area_color=F8BBD0
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Contribution Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Maxymus27
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Prepare gh-pages files
-        run: |
-          cp profile/stats.svg dist/stats.svg
-          cp profile/top-langs.svg dist/top-langs.svg
-
-      - name: Update profile cards on main
+      - name: Commit Stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git commit -m "Update profile widgets" || exit 0
+          git commit -m "Update GitHub profile stats" || exit 0
           git push
-
-      - name: Publish widgets
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
