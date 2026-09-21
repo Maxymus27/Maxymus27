@@ -256,12 +256,12 @@ GitHub Analytics
 <tr>
 <td width="50%" align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Maxymus27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=EF93C4&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180" src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/stats.svg" alt="GitHub Stats"/>
 
 </td>
 <td width="50%" align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxymus27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180" src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/top-langs.svg" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -277,7 +277,7 @@ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maxymus27&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+<img src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/activity-graph.svg" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
