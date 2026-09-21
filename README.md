@@ -250,6 +250,7 @@ Certifications
 
 GitHub Analytics
 
+
 <div align="center">
 
 <table>
@@ -257,14 +258,15 @@ GitHub Analytics
 <td width="50%" align="center">
 
 <img height="180"
-src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/stats.svg"
+src="./profile/stats.svg"
 alt="GitHub Stats"/>
 
 </td>
+
 <td width="50%" align="center">
 
 <img height="180"
-src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/top-langs.svg"
+src="./profile/top-langs.svg"
 alt="Top Languages"/>
 
 </td>
