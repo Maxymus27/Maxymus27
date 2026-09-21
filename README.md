@@ -286,7 +286,7 @@ Contribution Activity
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/gh-pages/activity-graph.svg"
+src="https://raw.githubusercontent.com/Maxymus27/Maxymus27/output/activity-graph.svg"
 width="100%"
 alt="GitHub Contribution Activity"/>
 
