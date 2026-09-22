@@ -4,7 +4,7 @@ Hey there, I'm Amith Maximus 👋
 
 Java Backend Developer | Spring Boot | AI-integrated Backend
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Generative+AI+%7C+AI+Integration;Building+Reliable+Backend+Systems" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF6844&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Generative+AI+%7C+AI+Integration;Building+Reliable+Backend+Systems" alt="Typing SVG"/>
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech%20CSE-VVIT-FF69B4?style=for-the-badge" alt="B.Tech CSE"/>
